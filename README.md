@@ -15,7 +15,7 @@ The Food Delivery Management System is a command-line application designed to he
 Follow the steps below to install and run the Zesty Zomato Food Delivery Management System:
 
 1. Clone the repository:
-git clone https://github.com/your-username/zesty-zomato.git
+git clone https://github.com/ashishkumarpalai/food_delivery_management_system.git
 
 2. Navigate to the project directory:
 cd food_delivery_management_system
